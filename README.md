@@ -41,3 +41,4 @@ CREATE TABLE users (
 );
 
 INSERT INTO users (userName, userPwd, userAge) VALUES ('testuser', 'testpassword', 25);
+
